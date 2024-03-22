@@ -25,7 +25,7 @@ int main(){
 		cout << "|   1) Add" << endl;
 		cout << "|   2) See" << endl;
 		cout << "|   3) Pop" << endl;
-		cout << "|   4) Delete" << endl;
+		cout << "|   4) Clear" << endl;
 		cout << "|   5) Exit" << endl;
 		cout << "|" << endl;
 		cout << "|   Choice :: ";
